@@ -1,0 +1,84 @@
+//Tech Games Design Ramblings
+.sub-heading
+  h2
+    padding: 10px
+    color: white
+    font-size: 30px
+    font-weight: normal
+    text-align: center
+    letter-spacing: 0.04em
+
+#recent-posts
+  background-image: url(../assets/img/jellyfish.jpg)
+  background-size: cover
+  background-position: center 60%
+
+.quarter-icons
+  width: 25%
+  height: 18vw
+  float: left
+  text-align: center
+
+  display: flex
+  flex-direction: column
+  justify-content: center
+
+  background:
+    size: cover
+
+  h3
+    color: white
+    font-size: 2.2vw
+    font-weight: normal
+    text-shadow: 1px 1px $text-shadow
+
+#travel-bg
+  background:
+    position: bottom
+
+.quarter-icons .icon
+  svg
+    width: 22%
+    height: 22%
+
+    display: block
+    margin: 0 auto
+
+//Recent Posts
+
+//article thumbnail
+.article-thumb
+  display: block
+  width: 25%
+  float: left
+  position: relative
+  background:
+    size: cover
+
+  &:after
+    content: ''
+    display: block
+    height: 18vw
+
+//text inside thumbnail
+.article-meta
+  position: absolute
+  text-align: center
+  padding-top: 30%
+  color: white
+
+  top: 0
+  left: 0
+  right: 0
+  bottom: 0
+
+  .name
+    font-size: 1.8vw
+    text-shadow: 1px 1px $text-shadow
+
+  .date
+    font-size: 1.2vw
+    font-style: italic
+
+.article-thumb:hover .article-meta
+  color: $hover

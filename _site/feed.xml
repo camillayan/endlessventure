@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:8080/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:8080/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:8080/" rel="alternate" type="text/html" /><updated>2018-01-11T16:10:04+11:00</updated><id>http://localhost:8080//</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome</title><link href="http://localhost:8080/jekyll/update/2018/01/09/welcome.html" rel="alternate" type="text/html" title="Welcome" /><published>2018-01-09T17:42:54+11:00</published><updated>2018-01-09T17:42:54+11:00</updated><id>http://localhost:8080/jekyll/update/2018/01/09/welcome</id><content type="html" xml:base="http://localhost:8080/jekyll/update/2018/01/09/welcome.html">&lt;html&gt;
+
+        &lt;section class=&quot;positioner hero&quot;&gt;
+            &lt;div class=&quot;hero-text&quot;&gt;
+                &lt;span&gt;&lt;h1&gt;Welcome to Endless Venture&lt;/h1&gt;&lt;/span&gt;
+                &lt;hr /&gt;
+                &lt;h3&gt;&lt;em&gt;January 09, 2018 · Camilla Yan&lt;/em&gt;&lt;/h3&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+
+        &lt;section class=&quot;positioner&quot;&gt;
+            &lt;article class=&quot;welcome-text&quot;&gt;
+                &lt;p&gt;&lt;span class=&quot;welcome&quot;&gt;Welcome to Endless Venture&lt;/span&gt;. A place full of enthralling adnventures, tech-related wonders, unbeknowst designers and incessant ramblings; proudly brought to you by a 21 year old university student born and raised in Melbourne, Australia.&lt;/p&gt;&lt;br /&gt;
+
+                &lt;p&gt;Creating this website is, perhaps, more for my sanity than for practising my web development skills, as I feel if I don't write down everything that's raging inside my head, my brain will surely and undoubtly explode.&lt;/p&gt;&lt;br /&gt;
+
+                &lt;p&gt;Feel free to email me, and I welcome you all to join me on my endless venture...&lt;/p&gt;
+            &lt;/article&gt;
+        &lt;/section&gt;
+&lt;/html&gt;</content><summary type="html">Welcome to Endless Venture
+                
+                January 09, 2018 · Camilla Yan
+            
+        
+
+        
+            
+                Welcome to Endless Venture. A place full of enthralling adnventures, tech-related wonders, unbeknowst designers and incessant ramblings; proudly brought to you by a 21 year old university student born and raised in Melbourne, Australia.
+
+                Creating this website is, perhaps, more for my sanity than for practising my web development skills, as I feel if I don't write down everything that's raging inside my head, my brain will surely and undoubtly explode.
+
+                Feel free to email me, and I welcome you all to join me on my endless venture...</summary></entry></feed>

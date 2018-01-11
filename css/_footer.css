@@ -1,0 +1,14 @@
+footer {
+  clear: both; }
+  footer .lockup {
+    margin-top: 40px;
+    height: 100px;
+    width: 100%;
+    position: relative;
+    bottom: 0px;
+    background: #4d5a83; }
+    footer .lockup .copyright {
+      font-size: 12px;
+      font-weight: 300;
+      text-alignt: right;
+      text-transform: uppercase; }
